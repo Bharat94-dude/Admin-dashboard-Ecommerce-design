@@ -1,0 +1,8 @@
+.about-us-view {
+  display: flex;
+  height: 100%;
+}
+
+.about-us-view .map {
+  flex: 1;
+}
